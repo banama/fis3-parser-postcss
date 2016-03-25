@@ -1,0 +1,22 @@
+{
+  "name": "fis3-parser-postcss",
+  "version": "0.1.1",
+  "description": "fis3 postcss plguin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/banama/fis3-parser-postcss"
+  },
+  "keywords": [
+    "fis3",
+    "postcss"
+  ],
+  "author": "banama",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.0.11"
+  }
+}
